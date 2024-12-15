@@ -121,7 +121,7 @@
         <mxCell id="qZviWjtYEAZgcSV_L7dp-58" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.66;dx=22.88;notch=0;fillColor=#CCCCCC;" parent="1" vertex="1">
           <mxGeometry x="339" y="591.5" width="55" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="rqnmy9McXEW3Z_b_oBwS-1" value="&lt;span style=&quot;font-size: 14px; text-wrap-mode: wrap;&quot;&gt;&lt;b&gt;服务端&lt;/b&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+        <mxCell id="rqnmy9McXEW3Z_b_oBwS-1" value="服务端" style="text;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;horizontal=1;fontStyle=1;fontSize=16;" parent="1" vertex="1">
           <mxGeometry x="150" y="285" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="9eQYjSnBoUs20xjZKoyD-1" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.56;dx=14.56;flipH=1;notch=0;fillColor=#CCCCCC;" parent="1" vertex="1">
