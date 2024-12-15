@@ -96,7 +96,7 @@
         <mxCell id="qZviWjtYEAZgcSV_L7dp-47" value="关节优化器" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFF4C3;" parent="1" vertex="1">
           <mxGeometry x="570" y="455" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="qZviWjtYEAZgcSV_L7dp-48" value="PoseMsg解码器" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFF4C3;" parent="1" vertex="1">
+        <mxCell id="qZviWjtYEAZgcSV_L7dp-48" value="控制虚拟人物姿态" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFF4C3;" parent="1" vertex="1">
           <mxGeometry x="570" y="336" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="qZviWjtYEAZgcSV_L7dp-50" value="" style="endArrow=none;html=1;rounded=0;entryX=0.887;entryY=0.383;entryDx=0;entryDy=0;entryPerimeter=0;dashed=1;" parent="1" edge="1">
