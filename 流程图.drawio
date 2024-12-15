@@ -34,6 +34,11 @@
         <mxCell id="qZviWjtYEAZgcSV_L7dp-60" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;shape=flexArrow;fillColor=#CCCCCC;width=11.304347826086957;endSize=4.834782608695652;" parent="1" source="qZviWjtYEAZgcSV_L7dp-14" target="qZviWjtYEAZgcSV_L7dp-19" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="o7PN1KQM0Z8fIxWU293y-7" value="生成2DPose" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="qZviWjtYEAZgcSV_L7dp-60">
+          <mxGeometry x="-0.4441" y="5" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="qZviWjtYEAZgcSV_L7dp-14" value="YOLO11-Pose" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFD89E;" parent="1" vertex="1">
           <mxGeometry x="260" y="313" width="90" height="45" as="geometry" />
         </mxCell>
@@ -132,6 +137,27 @@
         </mxCell>
         <mxCell id="9eQYjSnBoUs20xjZKoyD-5" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.67;dx=19.52;notch=0;fillColor=#CCCCCC;" parent="1" vertex="1">
           <mxGeometry x="210" y="417" width="47" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="o7PN1KQM0Z8fIxWU293y-2" value="编码" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="305" y="221.38" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="o7PN1KQM0Z8fIxWU293y-3" value="TCP传输" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="417" y="255" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="o7PN1KQM0Z8fIxWU293y-4" value="解码" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="355" y="320.5" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="o7PN1KQM0Z8fIxWU293y-8" value="回归偏移量" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="192" y="415" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="o7PN1KQM0Z8fIxWU293y-9" value="封装成任务" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="324" y="397" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="o7PN1KQM0Z8fIxWU293y-10" value="整合数据" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="331.5" y="500" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="o7PN1KQM0Z8fIxWU293y-11" value="编码" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="339" y="570" width="50" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
